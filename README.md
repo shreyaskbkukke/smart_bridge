@@ -4,6 +4,8 @@
 
 This Arduino project utilizes two servos, a moisture sensor, and a buzzer to detect floods. When the moisture level surpasses a predefined threshold, the system raises a bridge and activates a buzzer for alerts. The bridge lowers when the flood subsides.
 
+![maxresdefault](https://github.com/shreyaskbkukke/smart_bridge/assets/96857515/13beb000-271d-4bc2-8336-8d59bf3c193c)
+
 ## Components
 
 - 2 Servo Motors
